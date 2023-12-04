@@ -19,18 +19,25 @@
 
 - [Polyglot Notebook VSCode](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) - Supports various lanuages from .net family, but has a Java feature request https://github.com/dotnet/interactive/issues/3084
 
+## Online Jupyter Notebook Java capable environments
+
+- [mybinder](https://mybinder.org/)
+- [Google Colab](https://colab.research.google.com/)
+- [Red Hat OpenShift Sandbox](https://developers.redhat.com/developer-sandbox) with Red Hat DataScience
+- [GitPod](https://gitpod.io)
+- [GitHub CodeSpaces](https://github.com/codespaces)
+- [OpenShift Workspaces](https://workspaces.openshift.com/)
+
 ## Jupyter Auxiliary Libraries
 
 - [jupyter/jvm-repr](https://github.com/jupyter/jvm-repr) - API for converting JVM objects to representations by MIME type, for the Jupyter ecosystem. 
 - [jupyter/jvm-magics](https://github.com/jupyter/jvm-magics) - A plugin system for magic function implementations across JVM kernels.
 - [spencerpar/jupyter-jvm-basekernel](https://github.com/SpencerPark/jupyter-jvm-basekernel) - Base kernel to use for base implementation of a Jupyter Kernel
 
-
-## Not Jupyter
+## Not Jupyter but similar for Java
 
 - [jnotebook](https://jnotebook.catheu.tech/) - a modern notebook system for Java. `jnotebook` interprets Java JShell files and render them as notebooks.
 - [Apache Zeppelin](https://zeppelin.apache.org/) - Web-based notebook that enables data-driven,
 interactive data analytics and collaborative documents with SQL, Scala, Python, R, Java and more.
-
 
 
