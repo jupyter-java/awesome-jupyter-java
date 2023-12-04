@@ -4,6 +4,8 @@
 - [Rapaio](https://github.com/padreati/rapaio-jupyter-kernel/) - release in 2023 Rapaio Jupyter kernel works with Java 21.
 - [Kotlin](https://github.com/Kotlin/kotlin-jupyter) - The kernel is a powerful engine designed to enhance your Kotlin REPL experience. It offers support for executing code cells, providing basic code completion, and analyzing errors
 - [Ganymede](https://github.com/allen-ball/ganymede) - a Jupyter Notebook Java kernel based on the Java Shell tool, JShell.
+- [Almond](https://almond.sh/) - A kernel for Scala.
+- [Toree](https://toree.apache.org/) - A kernel for Spark written in Scala.
 
 ## Inactive Java Kernels
 
@@ -17,8 +19,13 @@
 
 - [Polyglot Notebook VSCode](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) - Supports various lanuages from .net family, but has a Java feature request https://github.com/dotnet/interactive/issues/3084
 
+## Jupyter Auxiliary Libraries
 
-  
+- [jupyter/jvm-repr](https://github.com/jupyter/jvm-repr) - API for converting JVM objects to representations by MIME type, for the Jupyter ecosystem. 
+- [jupyter/jvm-magics](https://github.com/jupyter/jvm-magics) - A plugin system for magic function implementations across JVM kernels.
+- [spencerpar/jupyter-jvm-basekernel](https://github.com/SpencerPark/jupyter-jvm-basekernel) - Base kernel to use for base implementation of a Jupyter Kernel
+
+
 ## Not Jupyter
 
 - [jnotebook](https://jnotebook.catheu.tech/) - a modern notebook system for Java. `jnotebook` interprets Java JShell files and render them as notebooks.
