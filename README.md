@@ -4,6 +4,7 @@
 - [Rapaio](https://github.com/padreati/rapaio-jupyter-kernel/) - release in 2023 Rapaio Jupyter kernel works with Java 21.
 - [Kotlin](https://github.com/Kotlin/kotlin-jupyter) - The kernel is a powerful engine designed to enhance your Kotlin REPL experience. It offers support for executing code cells, providing basic code completion, and analyzing errors
 - [Ganymede](https://github.com/allen-ball/ganymede) - a Jupyter Notebook Java kernel based on the Java Shell tool, JShell.
+- [JJava](https://github.com/dflib/jjava) - a kernel for Java. Started as a fork of iJava, but is fully supported and constantly adding new features.
 - [Almond](https://almond.sh/) - A kernel for Scala.
 - [Toree](https://toree.apache.org/) - A kernel for Spark written in Scala.
 
